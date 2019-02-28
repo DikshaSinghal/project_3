@@ -3,7 +3,6 @@ Project Description : The idea of the project is to create a webpage that will c
 1. Codechef
 2. Codeforces
 3. HackerEarth
-4. HackerRank
 
 Technology Stack : 
 1. Web Scraping (Python)
